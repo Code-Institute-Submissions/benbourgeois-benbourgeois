@@ -6,14 +6,14 @@ I have decided to create a small site that holds a game of memory or matching. T
 
 ## Features
 ### Existing Features
-Timer to track how long it takes to finish game
-Instant refresh through reset button
-Collapsing Home/Game menu bar
+-Timer to track how long it takes to finish game
+-Instant refresh through reset button
+-Collapsing Home/Game menu bar
 
 ### Features Left to Implement
-Having an alert pop up to refresh page when done
-Making a second version that is bigger/more challenging
-Adding a new game page with new game
+-Having an alert pop up to refresh page when done
+-Making a second version that is bigger/more challenging
+-Adding a new game page with new game
 
 ### Technologies
 

@@ -105,14 +105,6 @@ header {
     text-shadow: 3px 3px 4px #000000;
 }
 
-#nav {
-    margin: 0;
-}
-
-#nav li {
-    padding: 0;
-}
-
 .menuitem {
     height: 100px;
     width: 100%;
@@ -191,14 +183,6 @@ header {
     text-shadow: 3px 3px 4px #000000;
 }
 
-#nav {
-    margin: 0;
-}
-
-#nav li {
-    padding: 0;
-}
-
 .memory-menuitem {
     height: 100px;
     width: 100%;
@@ -236,12 +220,18 @@ header {
   position: absolute;
   left: -80px;
   transition: 0.3s;
-  padding: 15px;
-  width: 100px; 
+  padding: 10px;
+  width: 150px; 
   text-decoration: none; 
   font-size: 20px; 
   color: white; 
-  border-radius: 0 5px 5px 0; 
+  border-radius: 0 7px 7px 0; 
+}
+
+#Sidenav i {
+    padding-left: 30px;
+    position: relative;
+    font-size: 30px;
 }
 
 #Sidenav a:hover {
