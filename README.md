@@ -32,7 +32,7 @@ Cloud9
 
 - <a href=https://www.bootstrapcdn.com/>BootstrapCDN</a> for website design
 
-- Google Fonts - Uses <a href=https://fonts.google.com/>Google Fonts</a> for the website fonts
+- Used <a href=https://fonts.google.com/>Google Fonts</a> for the website fonts
 
 - <a href=https://fontawesome.com/>FontAwesome</a> was used to add the icons on the nav bar
 
