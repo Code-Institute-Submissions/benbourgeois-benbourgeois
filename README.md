@@ -26,9 +26,7 @@ I designed this site for someone looking to have a little fun in a short game of
 
 ### Technologies
 
-Cloud9 
-
-- The IDE used was <a href=https://c9.io/benbourgeois>Cloud9</a> to build the Website.
+- The IDE used was <a https://us-east-2.console.aws.amazon.com/cloud9/home?region=us-east-2>AWS Cloud9</a> to build the Website.
 
 - <a href=https://www.bootstrapcdn.com/>BootstrapCDN</a> for website design
 
@@ -80,7 +78,7 @@ CSS
 
 ## Deployment
 
-This project was developed using the Cloud9 IDE, commited and pushed to Github using the function within Cloud9.
+This project was developed using the AWS Cloud9 IDE, commited and pushed to Github using the function within Cloud9.
 
 - Push work to Github
 
@@ -91,7 +89,9 @@ This project was developed using the Cloud9 IDE, commited and pushed to Github u
 ## Credits
 
 - For the javascript used used for the card flipping animation:
+    
     - freeCodeCamp.org youtube: https://www.youtube.com/watch?v=ZniVgo8U7ek&list=LLX47phgrGqhYWSuoxWb2bvA&index=3&t=796s
 
 - For Timer:
+    
     - codepad.co site: https://codepad.co/snippet/javascript-stopwatch-using-javascript-and-css
