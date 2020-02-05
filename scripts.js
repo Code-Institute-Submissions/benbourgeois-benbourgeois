@@ -1,3 +1,6 @@
+// found JS code here for card animation: freeCodeCamp.org youtube: https://www.youtube.com/watch?v=ZniVgo8U7ek&list=LLX47phgrGqhYWSuoxWb2bvA&index=3&t=796s
+
+
 const cards = document.querySelectorAll(`.memory-card`);
 
 let hasFlippedCard = false;
@@ -70,6 +73,8 @@ function resetBoard() {
 
 cards.forEach(card => card.addEventListener(`click`, flipCard))
 
+
+//Found Timer code here: codepad.co site: https://codepad.co/snippet/javascript-stopwatch-using-javascript-and-css
 
 //Timer
 
