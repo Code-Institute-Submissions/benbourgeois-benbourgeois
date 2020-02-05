@@ -26,7 +26,7 @@ I designed this site for someone looking to have a little fun in a short game of
 
 ### Technologies
 
-- The IDE used was <a href=https://us-east-2.console.aws.amazon.com/cloud9/home?region=us-east-2/>AWS Cloud9</a> to build the Website.
+- The IDE used was <a href=https://us-east-2.console.aws.amazon.com/>AWS Cloud9</a> to build the Website.
 
 - <a href=https://www.bootstrapcdn.com/>BootstrapCDN</a> for website design
 
